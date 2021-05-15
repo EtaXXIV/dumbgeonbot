@@ -1,4 +1,4 @@
-# dumbgeon
+# dumbgeonbot
 A WIP bot that rolls a dice with anything that could happen.
 
 A solo project made with Discord.js.
