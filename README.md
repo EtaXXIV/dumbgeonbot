@@ -20,6 +20,8 @@ Planned:
 
 4. Type System and more Encounters
 
+5. Cleaner and friendlier code for server owners
+
 ## Beta?
 
 DM me if you want in the beta server. Just don't spam.
